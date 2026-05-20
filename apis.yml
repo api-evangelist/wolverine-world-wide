@@ -23,6 +23,8 @@ position: Consumer
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/wolverineworldwide
   - type: Website
     url: https://www.wolverineworldwide.com
   - type: Support
