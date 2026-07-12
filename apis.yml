@@ -24,6 +24,8 @@ position: Consumer
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/wolverine-world-wide-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/wolverineworldwide
   - type: Website
