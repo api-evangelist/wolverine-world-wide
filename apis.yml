@@ -49,7 +49,7 @@ created: '2026-05-03'
 modified: '2026-05-03'
 specificationVersion: '0.23'
 access: 3rd-Party
-position: Consumer
+position: Consuming
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/wolverine-world-wide.png
 apis: []
 common:
