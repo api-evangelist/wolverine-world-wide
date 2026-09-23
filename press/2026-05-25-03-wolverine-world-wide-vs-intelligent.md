@@ -1,7 +1,9 @@
 ---
 title: Wolverine World Wide Vs Intelligent
 url: https://danelfin.com/stocks/WWW-wolverine-world-wide-vs-INTJ-intelligent-compare
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Wolverine World Wide" press release artificial intelligence'
 position: 3
 source: serpapi-google

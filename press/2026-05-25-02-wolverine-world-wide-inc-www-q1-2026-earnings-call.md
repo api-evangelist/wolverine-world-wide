@@ -1,7 +1,9 @@
 ---
 title: Wolverine World Wide, Inc. (WWW) Q1 2026 Earnings Call ...
 url: https://seekingalpha.com/article/4904588-wolverine-world-wide-inc-www-q1-2026-earnings-call-transcript
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Wolverine World Wide" press release artificial intelligence'
 position: 2
 source: serpapi-google
